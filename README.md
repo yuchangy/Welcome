@@ -14,4 +14,4 @@ Goal of this project is to create a clear message towards the au
 language used: HTML, CSS, Javascript
 
 
-Project 3: Club Website
+Project 3: University of Michigan Badminton Club Website
